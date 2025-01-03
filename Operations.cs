@@ -23,4 +23,17 @@ public class Operation
     {
         return a / b;
     }
+
+    // 거듭제곱 함수
+    public int exponentiate(int x, int n)
+    {
+        int result = 1;
+
+        for(int i = 0; i < n; i++)
+        {
+            result *= x;
+        }
+
+        return result;
+    }
 }
