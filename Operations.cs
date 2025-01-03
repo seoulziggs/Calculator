@@ -19,7 +19,7 @@ public class Operation
     }
 
     // 나눗셈 함수
-    public int divide_main(int a, int b)
+    public int divide(int a, int b)
     {
         return a / b;
     }
