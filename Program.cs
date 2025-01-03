@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, ShinWoo!");
+﻿Console.WriteLine("This is Calculator Application!!");
